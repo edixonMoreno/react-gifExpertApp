@@ -12,7 +12,7 @@ const GifExpertApp = () => {
 
     
     
-    const [categories, setCategories] = useState(["One Punch"]);  
+    const [categories, setCategories] = useState(["Naruto"]);  
     
     
     // const handleAdd = () => {
